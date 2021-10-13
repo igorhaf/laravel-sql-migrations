@@ -1,0 +1,17 @@
+{
+    "name": "igorhaf/laravel-sql-migrations",
+    "description": "Commands to use a sql approach for migrations",
+    "autoload": {
+        "psr-4": {
+            "Igorhaf\\LaravelSqlMigrations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Herson",
+            "email": "igorhaf@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
