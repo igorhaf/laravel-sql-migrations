@@ -4,7 +4,7 @@
 
 *This repository now is only for postgre!!!*
 
-* ###How to install:
+* ### How to install:
 ```bash
 composer require igorhaf/laravel-sql-migrations
 ```
@@ -23,7 +23,7 @@ composer require igorhaf/laravel-sql-migrations
 php artisan vendor:publish --provider="Igorhaf\LaravelSqlMigrations\LaravelSqlMigrationsProvider"
 ```
 
-* ###How to use:
+* ### How to use:
 
 ####We have 3 commands for migrate with sql files.
 
